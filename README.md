@@ -1,1 +1,13 @@
 # CS-340
+
+1. How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+   When working on creating programs that are maintainable, readbale, and adaptable, making sure to follow proper coding techniques, such as commenting, indention, and spacing, these things help to keep the code readable and help make it easy to use for other users. The advantage of working in this way allows for changes to be applied to functions, such as what was needed from the read function created in the CRUD Python module between Project One and Two. When it comes to this CRUD Python module, I could use it in other courses as well as other python codes when wanting to use the CRUD's create, read, update, and delete functions.
+
+3. How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+   When approaching the problems presented, as a computer scientist, taking the information presented by, in this case Graioso Salvare, and gaining full understanding of what the client wants is where it starts. While approaching this project, the use and understanding of many different tools was crucial in completion of these assingments compared to other courses. Learning the in and outs and how these different tools worked together to call and also allow for cleaner code, was important, as I was asked to work through a lot of different information in this course. When it comes to creating future databases, the strategy of creating a CRUD Python file is something I find very useful and valuble, and is a strategy I would use in the creation of a new database.
+
+5. What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+   When it comes to computer scientist, the work we do help to create more organized and user friendly applications, which in turn help companies with there work. The techniques and technology used can allow for quick callbacks of needed information, allow for more data to be stored to allow for company expansion, and help provide security on important information. Computer scientist can help make a companies goals more viable.
